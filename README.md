@@ -8,8 +8,8 @@
 class Flutter {
     this.name = "Ender";
     this.nicknames = "Marijua- Mizah";
-    this.height = "1.71";
-    this.weight = "52";
+    this.height = "1.69";
+    this.weight = "49";
     this.type = "Human";
     this.job = "Student";
     this.sex = "Male";
