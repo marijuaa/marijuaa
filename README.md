@@ -19,6 +19,4 @@ class Flutter {
 }
 ```
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/919647704097890334)](https://discord.com/users/919647704097890334)
-
 Thanks Tekashi
