@@ -15,7 +15,7 @@ class Flutter {
     this.sex = "Male";
     this.instagram = "Marijua.js";
     this.discord = "Marijua#0248";
-    this.softwarelanguages = [ "Node.JS", "Python", "JavaScript","Flutter","Dart","C#","C++"];
+    this.languagesandframeworks = [ "Node.JS", "Python", "JavaScript","Flutter","Dart","C#","C++"];
 }
 ```
 
