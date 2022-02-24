@@ -1,6 +1,6 @@
 
   
-<h2 align="center">I'M MARİJUA <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center">I'M MARİJUANA <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
   <img src="https://komarev.com/ghpvc/?username=marijuaas&label=Ziyaretçi%20Sayısı&color=552b75" alt="marijuaa" />
   
