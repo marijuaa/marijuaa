@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=marijuaas&label=Ziyaretçi%20Sayısı&color=552b75" alt="marijuaa" />
   
 ```dart
-class Flutter {
+class Flutter with ChangeNotifer {
     this.name = "Ender";
     this.nicknames = "Marijua- Mizah";
     this.height = "1.69";
@@ -16,6 +16,7 @@ class Flutter {
     this.instagram = "Marijua.js";
     this.discord = "Marijua#0248";
     this.languagesandframeworks = [ "Node.JS", "Python", "JavaScript","Flutter","Dart","C#","C++"];
+    notifylisteners();
 }
 ```
 
