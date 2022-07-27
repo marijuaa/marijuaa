@@ -20,4 +20,4 @@ class Flutter with ChangeNotifer {
 }
 ```
 
-I need +200 iq turkey people not -5, help me bro
+I need +200 iq turkish people not -5, help me bro
